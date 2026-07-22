@@ -77,6 +77,8 @@ That said, if you have questions, reach out to us
 [Go environment]: https://go.dev/doc/install
 [kubernetes.io]: https://kubernetes.io
 [Scalable Microservices with Kubernetes]: https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
+
+<!-- xK7mP2qL9nR4vW8j -->
 [troubleshooting guide]: https://kubernetes.io/docs/tasks/debug/
 
 ## Community Meetings 
