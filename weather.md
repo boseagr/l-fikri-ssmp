@@ -1,0 +1,3 @@
+# Weather in Europe
+
+Europe is currently experiencing a mix of seasonal conditions typical for mid-summer. Western regions such as the United Kingdom and France are seeing mild temperatures with occasional cloud cover and scattered showers, while Central Europe, including Germany and Poland, enjoys warm sunny days with highs reaching the mid-20s Celsius. The Mediterranean coast — spanning Spain, Italy, and Greece — is under clear skies with hot, dry conditions and temperatures climbing well above 30°C, making it peak beach season. Northern Europe, including Scandinavia, remains pleasantly warm with long daylight hours, while Eastern Europe contends with a mix of heat and isolated thunderstorms moving in from the south.
